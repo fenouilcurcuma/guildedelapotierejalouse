@@ -11,6 +11,4 @@ La Guilde, c’est un __atelier de solidarité__ où l’argile de nos existence
   
 > __Nous sommes anonymes mais jamais effacé·e·s, car dans nos traces naissent les sentiers d’un autre monde.__  
   
-Rejoignez-nous!
-
-<span hidden style="display:none"> Choisir la pilule violette: ni rouge ni bleu && à la fois rouge et bleu </span>
+Rejoignez-nous! 
