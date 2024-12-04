@@ -13,4 +13,4 @@ La Guilde, c’est un __atelier de solidarité__ où l’argile de nos existence
   
 Rejoignez-nous!
 
-*prends la pilule violette! ni rouge ni bleu: à la fois rouge et bleu*
+<span hidden>Choisir la pilule violette: ni rouge ni bleu && à la fois rouge et bleu</span>
