@@ -1,4 +1,4 @@
-# Guilde de la potiere jalouse
+# Guilde de la potière jalouse
 ## Mission | Vision | Configuration
 
 Nous sommes les éclats de l'urne brisée, fragments qui refusent de plier aux injonctions réductrices. La Guilde de la Potière Jalouse est une structure organique, une argile vivante qui se façonne au gré des mains qui la travaillent, une alchimie d’idées personnelles, convergentes et d'actes collectifs.  
