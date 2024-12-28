@@ -1,7 +1,7 @@
 # guildedelapotierejalouse
 ## Mission 
 
-Nous sommes l’éclat d’un vase brisé, un fragment qui refuse de plier aux injonctions réductrices. La Guilde de la Potière Jalouse est une structure organique, une argile vivante qui se façonne au gré des mains qui la travaillent, une alchimie d’idées personnelles, convergentes et d'actes collectifs.  
+Nous sommes les éclats de l'urne brisée, fragments qui refusent de plier aux injonctions réductrices. La Guilde de la Potière Jalouse est une structure organique, une argile vivante qui se façonne au gré des mains qui la travaillent, une alchimie d’idées personnelles, convergentes et d'actes collectifs.  
   
 Nous rejetons les hiérarchies rigides, les récits imposés, les mythes qui glorifient le pouvoir, le profit et la domination. Nous puisons dans __la pensée sauvage__, ce feu indompté qui éclaire les chemins oubliés et redonne voix aux marges. Nous rêvons une société fluide et horizontale, où la __liberté individuelle__ et le __bien commun__ dansent en harmonie.  
   
