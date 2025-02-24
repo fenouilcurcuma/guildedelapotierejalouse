@@ -1,4 +1,4 @@
-# guildedelapotierejalouse
+# Guilde de la potière jalouse
 
 > Le pouvoir exige des corps tristes. Le pouvoir a besoin de tristesse parce qu'il peut la dominer. La joie, par conséquent, est résistance, parce qu'elle n'abandonne pas. La joie en tant que puissance de vie, nous emmène dans des endroits où la tristesse ne nous mènerait jamais.
 > - **Gilles Deleuze**
